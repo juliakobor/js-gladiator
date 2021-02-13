@@ -1,2 +1,2 @@
-import {Gladiator} from "./gladiator"
-import {Arena} from "./arena"
+import {Gladiator} from "./gladiator.js"
+import {Arena} from "./arena.js"
